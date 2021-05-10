@@ -1,0 +1,5 @@
+-i https://pypi.org/simple
+gitdb==4.0.7
+gitpython==3.1.15
+smmap==4.0.0
+typing-extensions==3.7.4.3
